@@ -1,0 +1,34 @@
+.main-bg {
+    background: #edf2f7;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+}
+
+.app-name {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.mail-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.mail-text {
+    font-size: 16px;
+    line-height: 1.5em;
+    text-align: left;
+    color: #718096;
+    margin-bottom: 10px;
+}
+
+.mail-action {
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
